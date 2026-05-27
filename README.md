@@ -1,34 +1,22 @@
-# 🎯 IT Quality Assurance Portfolio
+README
 
-Welcome to my IT Quality Assurance repository! 
+This repository consists of 2 main folders:
 
-## 📖 About This Repository
-This space serves as a centralized portfolio documenting the **IT Quality Assurance Testing Plans**, **Test Cases**, and **testing strategies** for various projects I have handled. The goal is to showcase my QA methodologies, from analyzing requirements and test planning to detailed execution.
+📂 BoulderIn
 
-## 🗂️ Projects Included
+This folder contains Test Cases and Reports from a QA Automation Testing project that has been worked on previously.
 
-Here are the key projects documented in this repository:
+BoulderIn is the name of a sports company that required a mobile-responsive web application for its customers. The application is used to:
 
-### 1.  TDS (Technical Data Sheet) System
-* **Description:** An automated system for RDI departments to digitize and manage product Technical Data Sheets, featuring dynamic form validations and multi-level e-approvals.
-* **Artifacts:** `Test_Cases_Avian_TDS.xlsx`
+Manage personal user data
+Manage parent-child relationships
+Perform activity check-ins
+View sports activity statistics
 
-### 2. My Culture (Employee Star & Reward System)
-* **Description:** An employee engagement platform for managing sports activities, attendance scanning, and star-based reward distributions.
-* **Artifacts:** `Test_Cases_Avian_My_Culture.csv`
+The documents in this folder were created as part of the quality assurance process to ensure that all application features function properly according to business requirements and user experience expectations.
 
-### 3. [Your Other Project Name]
-* **Description:** [Brief description of the project]
-* **QA Focus:** [e.g., API Testing, UAT, Integration Testing]
-* **Artifacts:** [Link or name of the file]
+📂 Planned Test Case
 
-## 🛠️ Skills & Methodologies Demonstrated
-* **Testing Types:** Functional Testing, End-to-End (E2E) Testing, User Acceptance Testing (UAT), Security/Permission Validation.
-* **Test Documentation:** Scenario planning, Expanded Deep-Dive Test Cases, Expected vs Actual Results mapping.
-* **Analysis:** Translating Functional Specification Documents (FSD) and User Requirement Documents (URD) into actionable test items.
-* **Method:** Automation & Manual QA Test
+This folder contains a collection of Planned Test Cases created for projects that are still in the Development Phase.
 
-## 📫 Let's Connect
-If you'd like to discuss QA methodologies, software testing, or potential collaborations, feel free to reach out!
-* **LinkedIn:** [Insert your LinkedIn URL]
-* **Email:** [Insert your email address]
+The documents in this folder are used as references and preparation materials for the testing process before the features or applications move into the QA or Production stages.
